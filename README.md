@@ -1,4 +1,7 @@
 # Pghub-server
+# Pghub-server
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 This is a simple rails server for using Pghub gems.
 
